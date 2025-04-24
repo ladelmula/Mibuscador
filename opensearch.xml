@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>MiBuscador</ShortName>
+  <Description>Buscador Jordi</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" template="https://www.google.com/search?udm=14&amp;q={searchTerms}"/>
+</OpenSearchDescription>
